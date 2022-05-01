@@ -23,11 +23,14 @@ textarea {
 
 .description{
   white-space: pre-wrap;
+  background-color: lightgray;
+  border: 1px solid black;
 }
 
 .time-block{
   text-align: center;
   border-radius: 15px;
+  /* padding: 2px; */
 }
 
 .row {
@@ -64,6 +67,7 @@ textarea {
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
+  
 }
 
 .saveBtn i:hover {
@@ -76,5 +80,17 @@ textarea {
   margin-top: 15px;
   padding-top: 15px;
   font-size: x-large;
+}
+span {
+  font-size: x-large;
+}
 
+.description-danger {
+  white-space: pre-wrap;
+  background-color: green;
+}
+
+.description-warning {
+  white-space: pre-wrap;
+  background-color: red;
 }
