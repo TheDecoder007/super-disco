@@ -1,21 +1,24 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
     Schedule your daily tasks so you never miss a beat!
-    
+
 ## Built with
 * HTML
 * CSS
 * Javascript
+* jQuery
+* Bootstrap
+* Moment.js
 
 ## Links
-github link https://github.com/TheDecoder007/quiz-challenge
+github link https://github.com/TheDecoder007/super-disco
 
 Deploy link: https://thedecoder007.github.io/quiz-challenge/
 
 ### Other Info
-* Timer starts on click of start button
-* Button color displays right or wrong answers
-* Restarts when quiz is finished
+* displays current day at top of screen
+* type in a task, and use save button for persistence
+* easily edit tasks and re-save
 
 ## Screenshot
-![Screenshot (696)](https://user-images.githubusercontent.com/101135574/164992725-adda5f31-5e7a-497a-87eb-890c5820112c.png)
+
