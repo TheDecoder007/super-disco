@@ -22,3 +22,4 @@ Deploy link: https://thedecoder007.github.io/quiz-challenge/
 
 ## Screenshot
 
+![Screenshot (710)](https://user-images.githubusercontent.com/101135574/166169927-3a5a2a20-86b3-445b-b1b4-755a2d2e36d3.png)
