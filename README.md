@@ -11,9 +11,9 @@
 * Moment.js
 
 ## Links
-github link https://github.com/TheDecoder007/super-disco
+GitHub link https://github.com/TheDecoder007/super-disco
 
-Deploy link: https://thedecoder007.github.io/quiz-challenge/
+Deploy link: https://thedecoder007.github.io/super-disco/
 
 ### Other Info
 * displays current day at top of screen
