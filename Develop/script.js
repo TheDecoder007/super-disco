@@ -73,7 +73,7 @@ for(var i = 0; i < tasks.length; i++) {
 
 var saveTasks = function(task, index) {
   console.log(saveTasks);
-  tasks[index] = task
+  tasks[index] = task;
   console.log(tasks);
   localStorage.setItem("tasks", JSON.stringify(tasks));
 };
